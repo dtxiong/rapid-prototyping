@@ -26,3 +26,51 @@ The contraption must first be able to harness energy. This can take place in man
 Here are a few examples:
 1. On campus, there are solar garbage cans, which use the energy it obtains to compact the garbage. https://bigbelly.com/
 2. Wind powered water pump. https://www.instructables.com/DIY-Wind-Powered-Water-Pump/
+
+
+### Week 2
+Possible Clients/Audience:
+- Residential Building
+- Small Business
+- Government(local/national)
+- Non-profits
+- MIT students, instructors, visitors
+- Campers
+- Outdoor Activities/Sailing
+- Those with housing displaced
+- Students on campus
+- Cambridge residents
+
+Possible Energy Sources:
+- Solar
+- Wind
+- Hydro
+- Rain
+- Geothermal
+- Compost
+- Kinetic
+
+Energy Capture/Storage:
+- DC voltage
+- Battery
+- Compressed air (Underwheel)
+- Water wheel
+- Tidal energy
+- Phase change 
+- Tanks of water (Water tower)
+
+Waste/Heat:
+- Embodied energy/inefficiency
+- Braking/stopping/flywheel
+- Evaporative cooling
+
+Project Brainstorming:
+- Rechargeable Hand Warmers
+- Cabin heated by compost
+- Wheel/rain capture
+  - Runoff capture
+  - Charges phone/umbrella
+- Solar concetrator pavilion
+  - cook food
+- Science Demo
+  - Didactic Sculpture
