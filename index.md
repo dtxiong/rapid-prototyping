@@ -76,3 +76,8 @@ Project Brainstorming:
   - Didactic Sculpture
 - Boiling water pavilion (purifying)
 - Perpetual motion
+
+Eco-Bikes:
+Regenerative braking, but might not be efficient
+
+Capture water from the air, in Saudi Arabia. 
