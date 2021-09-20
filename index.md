@@ -74,3 +74,5 @@ Project Brainstorming:
   - cook food
 - Science Demo
   - Didactic Sculpture
+- Boiling water pavilion (purifying)
+- Perpetual motion
