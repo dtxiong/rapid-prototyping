@@ -11,9 +11,10 @@ Goal: Design an intervention that captures energy from the environment, and use 
 
 Working as a team, we will create a single project to meet the reuqirements in the duration of the Fall term. 
 It will accomplish one or more of the following:
--As a didactic tool to demonstrate to the public some principles related to sustainability and renewable resources
--To accomplish a task normally accomplished with traditional forms of energy
--Capture and utilize the energy in a novel manner beneficial to humanity
+- As a didactic tool to demonstrate to the public some principles related to sustainability and renewable resources
+- To accomplish a task normally accomplished with traditional forms of energy
+- 
+- Capture and utilize the energy in a novel manner beneficial to humanity
 
 ### Precedent 
 
@@ -79,5 +80,8 @@ Project Brainstorming:
 
 Eco-Bikes:
 Regenerative braking, but might not be efficient
+Solar panels to charge phone
+
+Solar panel hat
 
 Capture water from the air, in Saudi Arabia. 
