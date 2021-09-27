@@ -30,6 +30,23 @@ Here are a few examples:
 
 
 ### Week 2
+
+#### Potential Projects:
+Eco-Bikes:
+Use regenerative braking, but might not be very efficient. 
+Use solar panels to charge phone, from the bike. 
+
+Solar panel hat. A hat will have solar panels on it to collect energy to charge the phone. However, might be clunky to use. 
+
+There are methods to capture water from the air. This could be used in Saudi Arabia and other countries where water is more scarce. 
+
+Solar powered public infrastructure, including vending machines, water fountains, ATMs etc.
+
+Compost heat generators
+Using sewer flow or trash from public bins or algae → hydroelectric and biofuel: https://www.sciencedirect.com/science/article/pii/S2095809917300875
+Outdoor pavilion powered by solar energy that delivers energy to create hot water. This could be used for coffee, tea, etc. 
+
+#### Note Taking
 Possible Clients/Audience:
 - Residential Building
 - Small Business
@@ -78,10 +95,3 @@ Project Brainstorming:
 - Boiling water pavilion (purifying)
 - Perpetual motion
 
-Eco-Bikes:
-Regenerative braking, but might not be efficient
-Solar panels to charge phone
-
-Solar panel hat
-
-Capture water from the air, in Saudi Arabia. 
