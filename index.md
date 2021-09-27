@@ -46,6 +46,7 @@ Using sewer flow or trash from public bins or algae → hydroelectric and biofue
 Outdoor pavilion powered by solar energy that delivers energy to create hot water. This could be used for coffee, tea, etc. 
 
 Solar panel picture:
+
 ![](/solarpanel.jpg "Text to show on mouseover")
 
 #### Note Taking
