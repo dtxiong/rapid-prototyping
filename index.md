@@ -47,7 +47,7 @@ Outdoor pavilion powered by solar energy that delivers energy to create hot wate
 
 Solar panel picture:
 
-![](/solarpanel.jpg "Text to show on mouseover")
+![alt text](./solarpanel.jpg)
 
 #### Note Taking
 Possible Clients/Audience:
