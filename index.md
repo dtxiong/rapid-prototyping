@@ -13,7 +13,6 @@ Working as a team, we will create a single project to meet the reuqirements in t
 It will accomplish one or more of the following:
 - As a didactic tool to demonstrate to the public some principles related to sustainability and renewable resources
 - To accomplish a task normally accomplished with traditional forms of energy
-- 
 - Capture and utilize the energy in a novel manner beneficial to humanity
 
 ### Precedent 
@@ -46,7 +45,8 @@ Using sewer flow or trash from public bins or algae → hydroelectric and biofue
 
 Outdoor pavilion powered by solar energy that delivers energy to create hot water. This could be used for coffee, tea, etc. 
 
-![](solarpanel.jpg "Text to show on mouseover")
+picture:
+![](/solarpanel.jpg "Text to show on mouseover")
 
 #### Note Taking
 Possible Clients/Audience:
