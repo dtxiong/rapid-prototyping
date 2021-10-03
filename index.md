@@ -19,16 +19,4 @@ It will accomplish one or more of the following:
 - To accomplish a task normally accomplished with traditional forms of energy
 - Capture and utilize the energy in a novel manner beneficial to humanity
 
-### Precedent 
-
-The contraption must first be able to harness energy. This can take place in many forms:
-- Solar
-- Wind
-- Chemical
-- Gravitational
-
-Here are a few examples:
-1. On campus, there are solar garbage cans, which use the energy it obtains to compact the garbage. https://bigbelly.com/
-2. Wind powered water pump. https://www.instructables.com/DIY-Wind-Powered-Water-Pump/
-
 
