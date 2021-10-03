@@ -3,7 +3,7 @@
 
 [About](https://dtxiong.github.io/rapid-prototyping/about)
 
-[Week 1]()
+[Week 1](https://dtxiong.github.io/rapid-prototyping/week1)
 
 [Week 2](https://dtxiong.github.io/rapid-prototyping/week2)
 
