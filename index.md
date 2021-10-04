@@ -9,6 +9,8 @@
 
 [Week 3](https://dtxiong.github.io/rapid-prototyping/week3)
 
+[Week 4](https://dtxiong.github.io/rapid-prototyping/week4)
+
 ### Project Overview
 
 Goal: Design an intervention that captures energy from the environment, and use it.
