@@ -13,7 +13,7 @@ How to track the sun? Maybe don't have to, and just have it be manual, based on 
 
 Solar power vs time of day:
 ![Energy vs time of day, depending on orientation, tilt, tracking](https://www.eia.gov/todayinenergy/images/2014.11.19/main.png)
-Tracking will help about 50 W at peak hours, 100 W before and after. The tracking does not need to be too accurate, because of the cosine dependence -- 5 degree of will still capture 99.6% energy. 
+Tracking will help about 50 W at peak hours, 100 W before and after. The tracking does not need to be too accurate, because of the cosine dependence -- 5 degrees of offset will still capture 99.6% energy. 
 
 
 How much would a solar panel cost? Mirror? Lens? 
