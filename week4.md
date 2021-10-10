@@ -1,3 +1,5 @@
+# Week 3
+
 ## [Home](https://dtxiong.github.io/rapid-prototyping/)
 
 ### Energy Capture
