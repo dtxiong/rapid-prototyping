@@ -27,7 +27,9 @@ The path of light focused by a parbolic lens is shown [here](https://www.desmos.
 We also looked at the idea of tracking the sun. This will let us focus the sun rays on our target throughout the day. One possibility is a manual hinge that could be adjusted in the morning and afternoon. Other possibilities include open source libraries. 
 
 Solar power vs time of day:
+
 ![Energy vs time of day, depending on orientation, tilt, tracking](https://www.eia.gov/todayinenergy/images/2014.11.19/main.png)
+
 Tracking will help about 50 W at peak hours, 100 W before and after. The tracking does not need to be too accurate, because of the cosine dependence: 5 degrees of offset will still capture 99.6% energy. 
 
 We looked at absorptive surface treatments specially designed for solar collection purposes to maximize the energy collected and minimize the energy lost from radiation as well as heat pipes to transfer energy from our collection surface to the storage and cooking systems. One initial thought is to use the number heat pipes to control how much energy is allocated to each system, which could allow for more collection during the day and cooking at a range of temperatures.
