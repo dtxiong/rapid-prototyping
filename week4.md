@@ -1,3 +1,5 @@
+## [Home](https://dtxiong.github.io/rapid-prototyping/)
+
 ### Energy Capture
 
 Our end goal is to determine a method to cook food and heat water using solar energy. One possible method will directly heat the food/pan using solar rays which are passed through a lens or reflected by a mirror. Another method would be to indirectly heat the food and water by converting the power into electricity first, then using the electricity to heat the water and food. 
