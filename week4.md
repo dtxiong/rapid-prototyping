@@ -2,6 +2,9 @@
 
 Our end goal is to determine a method to cook food and heat water using solar energy. One possible method will directly heat the food/pan using solar rays which are passed through a lens or reflected by a mirror. Another method would be to indirectly heat the food and water by converting the power into electricity first, then using the electricity to heat the water and food. 
 
+This week, we did research in preparation for the pin-up, where we presented our thoughts to the other groups.  
+
+
 There are several options for focusing light rays to directly heat the food and water: Parabolic mirror, Spherical Mirror, Fresnel Lens
 
 Advantages of using a reflector instead of fresnel lens: will get all the wavelengths. 
