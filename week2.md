@@ -1,5 +1,6 @@
+# Week 2
 
-### Week 2
+## [Home](https://dtxiong.github.io/rapid-prototyping/)
 
 #### Potential Projects:
 Eco-Bikes: Use regenerative braking, but might not be very efficient. Use solar panels to charge phone, from the bike. 
