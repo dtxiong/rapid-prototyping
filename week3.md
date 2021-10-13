@@ -1,4 +1,6 @@
-### Week 3
+# Week 4
+
+## [Home](https://dtxiong.github.io/rapid-prototyping/)
 
 We organized into 3 groups: Energy collection, storage, usage. I joined the energy collection team, and we discussed the different possible ways to capture energy. 
 
