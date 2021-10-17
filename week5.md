@@ -15,7 +15,9 @@ For flat-plate collectors, there are generally 2 parts: a black plate for absorb
 - Black Epoxy Paint: 0.89
 - Black Enamel Paint: 0.80
 
-[source](https://www.engineeringtoolbox.com/emissivity-coefficients-d_447.html)
+[Source](https://www.engineeringtoolbox.com/emissivity-coefficients-d_447.html)
+
+High emmisivity is better, as it would be a better absorber. 
 
 Glass is also used over the collection surface which will act like a greenhouse, because it is an insulator. The panels will be surrounded on the other sides by insulating material, so heat does not leak out the sides. 
 
