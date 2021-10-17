@@ -10,6 +10,10 @@ We discussed the details of our light-focusing apparatus. We chose to use mirror
 
 The light should be defocused to cover the collection area. This way, we do not burn a hole into the collection area. However, it needs to be focused enough to reach high temperatures. Thus, the collection surface should not be at the focus point, but a bit closer or farther away. With this, the light will focus onto a small circle on the collection area, which will have the highest temperature. The temperature outside of the circle will fall with a -ln(r) dependence. The equilibrium temperatures will depend on the rates of convection with the air around it. More heat will be convected away if the air outside is colder, so the equilibrium temperature will be smaller. 
 
+Solar thermal collectors are similar to solar panels, but usually they instead heat up water to be used. We can use a similar design for our collection surface, as we are not converting the solar energy to electricity, but instead using the heat generated. 
+
+![Solar Collector Diagram](https://ars.els-cdn.com/content/image/3-s2.0-B978008099424600020X-f20-01-9780080994246.jpg)
+
 For flat-plate collectors, there are generally 2 parts: a black plate for absorbing and a transparent cover. A common absorber coating used is black enamel paint. We can analyze the emmisivity constants for multiple materials:
 - Black Silicone Paint: 0.93
 - Black Epoxy Paint: 0.89
@@ -23,4 +27,4 @@ Glass is also used over the collection surface which will act like a greenhouse,
 
 The temperature reached by the collection area must be higher than the temperature wanted to cook the meals because of the 2nd law of thermodynamics. This is very hard to reach. 
 
-More communication is needed with the energy storage team on how the energy will be transferred from the collection surface. Will the salts be moving the heat around using convection? We will need to calculate the efficiencies of these. 
+More communication is needed with the energy storage team on how the energy will be transferred from the collection surface. Will the salts be moving the heat around using convection? In this case, we could use pipes through the collection surface, similar to the solar thermal collectors. We will need to calculate the efficiencies of these. 
