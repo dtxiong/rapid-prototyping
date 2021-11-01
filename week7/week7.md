@@ -18,5 +18,5 @@ The secondary reflector will have to also be a parabolic mirror. As shown in the
 
 ![Secondary Reflector](./File_001.png)
 
-We are currently also working on a powerpoint presentation for our midterm review. 
+Future steps will be to start forming prototypes of these mirror components using laser cutting. The first configuration for the primary mirror is easier to make: the structures can just be circular rings with small thickness. The mylar can be stretched between these rings. We would also need some structural components attaching these rings together, in the right shape to form a parabola. The second configuration might be more difficult to manufacture, if we have to curve the plastic after laser cutting it. Another possibility is just laser cutting many half-parabolas. These can be placed around in a circular fashion, and connected at the vertex. Then, the mylar can be stretched between every two adjacent pieces. We are currently also working on a powerpoint presentation for our midterm review. 
 
