@@ -3,17 +3,19 @@
 
 [About](https://dtxiong.github.io/rapid-prototyping/about)
 
-[Week 1](https://dtxiong.github.io/rapid-prototyping/week1)
+[Week 1](https://dtxiong.github.io/rapid-prototyping/week1/week1)
 
-[Week 2](https://dtxiong.github.io/rapid-prototyping/week2)
+[Week 2](https://dtxiong.github.io/rapid-prototyping/week2/week2)
 
-[Week 3](https://dtxiong.github.io/rapid-prototyping/week3)
+[Week 3](https://dtxiong.github.io/rapid-prototyping/week3/week3)
 
-[Week 4](https://dtxiong.github.io/rapid-prototyping/week4)
+[Week 4](https://dtxiong.github.io/rapid-prototyping/week4/week4)
 
-[Week 5](https://dtxiong.github.io/rapid-prototyping/week5)
+[Week 5](https://dtxiong.github.io/rapid-prototyping/week5/week5)
 
-[Week 6](https://dtxiong.github.io/rapid-prototyping/week6)
+[Week 6](https://dtxiong.github.io/rapid-prototyping/week6/week6)
+
+[Week 7](https://dtxiong.github.io/rapid-prototyping/week7/week7)
 
 ### Project Overview
 
