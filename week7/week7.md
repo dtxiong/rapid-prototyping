@@ -1,4 +1,4 @@
-# Week 6
+# Week 7
 
 ## [Home](https://dtxiong.github.io/rapid-prototyping/)
 
@@ -15,7 +15,8 @@ These configurations will be easier to put together, as there are less individua
 ### Secondary Reflector
 
 The secondary reflector will have to also be a parabolic mirror. As shown in the picture below, there will be two possible configurations to make the rays go back vertical. One is to have the vertex above the focal point and have the mirror be concave downward. The other way is to have the vertex below the focal point, and have a concave mirror. Either way, in order for the light rays to be redirected vertical, the focal points of the two reflectors must be the same. This means the secondary reflector, which is smaller in size, will be more curved. This makes it more difficult to manufacture. We are in the process of searching for potential mirrors online, but none so far have small radius and small focal length. In addition, because all rays go vertical, the size of the secondary reflector must be the same as the hole in the primary reflector. If instead we want the rays to be focused on a point below the primary reflector, the secondary reflector must be even more curved. 
-![Secondary Reflector](./File_001.jpg)
+
+![Secondary Reflector](./File_001.png)
 
 We are currently also working on a powerpoint presentation for our midterm review. 
 
