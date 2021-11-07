@@ -1,8 +1,8 @@
-# Week 7
+# Week 8
 
 ## [Home](https://dtxiong.github.io/rapid-prototyping/)
 
-Worked with Pablo. He will help. We will try to create a fiberglass layup composite of the mylar parabolic mirror, like this video:
+On Monday, I worked with Pablo from the systems team. He helped provide dimensions for how large the primary/secondary mirror should be. We are now leaning towards trying to create a fiberglass layup composite of the mylar parabolic mirror, like this video:
 
 PVC plate - smooth, 
 
