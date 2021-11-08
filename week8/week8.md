@@ -20,4 +20,4 @@ Another idea I looked at was the possibility of having a one-way secondary mirro
 
 Because the area of the primary mirror is larger than twice the area of the secondary mirror, we will use 100% reflection. 
 
-On Wednesday, we had the midterm review. 
+On Wednesday, we had the midterm review. My teammates were not there, so I was the one presenting. After showing the other idea we had of building a fresnel mirror with many smaller squares, we had a discussion about the feasibility of this. It seems that this option would work, though it would take some time to build. We will keep it on the table, in case creating the fiberglass layup is too difficult. 
