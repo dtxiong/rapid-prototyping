@@ -16,6 +16,8 @@ The alternative method (explained in last week's documentation) was to create a 
 
 Another idea I looked at was the possibility of having a one-way secondary mirror. This would allow light to still pass through the secondary mirror directly into the hole, but still be able to reflect light from other parts of the primary mirror. The calculations are shown here: 
 
+![One-Way-Calculations](./File_000 (6).png)
+
 Because the area of the primary mirror is larger than twice the area of the secondary mirror, we will use 100% reflection. 
 
 On Wednesday, we had the midterm review. 
