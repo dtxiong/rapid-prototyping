@@ -1,4 +1,4 @@
-# Week 8
+# Week 9
 
 ## [Home](https://dtxiong.github.io/rapid-prototyping/)
 
@@ -9,3 +9,5 @@ They started on creating the fiberglass layup for the mirror. First, they adhere
 Below you can see Pablo working on the fiberglass. At this point, the surface is hardened. 
 
 ![Mylar mirror](./pic1.jpg)
+
+The next step is to test this with sunlight, or a flashlight to see if the mirror is good enough to provide significant power at the focus. 
